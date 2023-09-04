@@ -5,12 +5,12 @@ import { Button, DetectRelGraph } from '@syhan-antsome/ant-component';
 function App() {
   return (
     <div className="App">
-      <Button label="this is my button home" />
+      <Button label="this is my button home3245323" />
 
       <br /><br />
 
       <DetectRelGraph nodeData={{
-        mainIp: "123.112.33.44",
+        mainIp: "123.112.33.55",
         detect: {
           inside: [{
             nodeIp: "211.11.22.33",
@@ -30,6 +30,9 @@ function App() {
           }, {
             nodeIp: "111.11.22.22",
             inout: "OUT"
+          }, {
+            nodeIp: "111.11.22.33",
+            inout: "IN"
           }, {
             nodeIp: "111.11.22.33",
             inout: "IN"
