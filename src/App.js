@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { Button, DetectRelGraph } from '@syhan-antsome/ant-component';
+import { Button, DetectRelGraph, XTasRelGraph } from '@syhan-antsome/ant-component';
 
 function App() {
   return (
@@ -54,6 +54,11 @@ function App() {
             inout: "IN"
           }]
         }
+      }}/>
+
+      <br /><br />
+
+      <XTasRelGraph nodeData={{
       }}/>
 
 
