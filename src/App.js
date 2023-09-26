@@ -88,17 +88,14 @@ function App() {
           }]
         },
         "file": {
-          "t1": [],
-          "t2": [{
+          "t1": [{
             "name": "y5h5rtf"
           },{
             "name": "y5h5rtf"
           }],
-          "t3": [],
           "t4": [{
             "name": "y5h5rtf"
-          }],
-          "t5": []
+          }]
         },
         "registry": {
           "t1": [{
