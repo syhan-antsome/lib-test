@@ -57,78 +57,55 @@ function App() {
       <br /><br />
 
       <XTasRelGraph nodeData={{
-        "ntas": {
-          "name": "DNS covert channel"
-        },
-        "process": {
-          "t1": [{
-            "name": "dfwf"
-          },
-          {
-            "name": "rhfdg"
-          }
-          ],
-          "t2": [{
-            "name": "rtdfag"
-          }],
-          "t3": [{
-            "name": "nrefgerfg"
-          }],
-          "t4": [{
-            "name": "nrefgerfg"
-          }],
-          "t5": [{
-            "name": "nrefgerfg"
-          },{
-            "name": "nrefgerfg"
-          },{
-            "name": "nrefgerfg"
-          },{
-            "name": "nrefgerfg"
-          }]
-        },
-        "file": {
-          "t1": [{
-            "name": "y5h5rtf"
-          },{
-            "name": "y5h5rtf"
-          }],
-          "t4": [{
-            "name": "y5h5rtf"
-          }]
-        },
-        "registry": {
-          "t1": [{
-            "name": "rth5yhaegr"
-          },{
-            "name": "rth5yhaegr"
-          },{
-            "name": "rth5yhaegr"
-          }],
-          "t2": [],
-          "t3": [{
-            "name": "rth5yhaegr"
-          },{
-            "name": "rth5yhaegr"
-          },{
-            "name": "rth5yhaegr"
-          },{
-            "name": "rth5yhaegr"
-          },{
-            "name": "rth5yhaegr"
-          },{
-            "name": "rth5yhaegr"
-          },{
-            "name": "rth5yhaegr"
-          }],
-          "t4": [{
-            "name": "rth5yhaegr"
-          }],
-          "t5": [{
-            "name": "rth5yhaegr"
-          }]
-        }
-      }} />
+            "registry": {
+                "t4": [
+                    {
+                        "name": "jergrg"
+                    },
+                    {
+                        "name": "dfrhteher"
+                    }
+                ],
+                "t2": [
+                    {
+                        "name": "er3451435"
+                    }
+                ]
+            },
+            "process": {
+                "t5": [
+                    {
+                        "name": "jergrg"
+                    },
+                    {
+                        "name": "dfrhteher"
+                    }
+                ],
+                "t1": [
+                    {
+                        "name": "er3451435"
+                    }
+                ]
+            },
+            "file": {
+                "t5": [
+                    {
+                        "name": "jergrg"
+                    },
+                    {
+                        "name": "dfrhteher"
+                    }
+                ],
+                "t3": [
+                    {
+                        "name": "er3451435"
+                    }
+                ]
+            },
+            "ntas": {
+                "name": "dsafgasdg"
+            }
+        }} />
 
 
     </div>
